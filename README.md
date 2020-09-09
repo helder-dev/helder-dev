@@ -1,3 +1,5 @@
-# Hi there 👋
+### Hey, I'm Hélder Oliveira ✌️
 
-My name is Hélder Oliveira and I'm a software developer. I'm from Portugal and currently working at RISI.
+I work as a software developer and currently living in Portugal.
+
+Since 2012 I've been living and breathing software development. I've had the chance to immerse myself in some different projects trying to facilitate other people lives and make this work a little bit better. 
